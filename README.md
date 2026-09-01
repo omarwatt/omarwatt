@@ -23,7 +23,7 @@ Based in Israel · [Email me](mailto:jobow955@gmail.com)
 
 | Project | What it demonstrates | Technologies |
 | --- | --- | --- |
-| [MCU with Peripherals][mcu] | Integration of a processor with GPIO, a programmable timer, PWM/capture, UART, interrupt control, and a multicycle divider. | VHDL, FPGA, ModelSim, Quartus |
+| [MCU with Peripherals](https://github.com/omarwatt/MCU-with-Peripherals) | Integration of a processor with GPIO, a programmable timer, PWM/capture, UART, interrupt control, and a multicycle divider. | VHDL, FPGA, ModelSim, Quartus |
 | [Five-Stage RISC-V Processor][pipeline] | Single-cycle and pipelined processor implementations, with forwarding and hazard handling. | VHDL, microarchitecture, RTL simulation |
 | [CMOS Component Design and Layout][cmos] | Transistor-level design, custom layout, DRC/LVS, and delay analysis before and after parasitic extraction. | CMOS, custom IC layout, physical verification |
 | [Folded-Cascode Amplifier and LDO][analog] | Analog circuit design, transistor sizing, biasing, custom layout, device matching, and performance analysis. | Analog IC design, VLSI, circuit simulation |

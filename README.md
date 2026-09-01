@@ -13,4 +13,4 @@ I'm Omar Wattad, an Electrical and Computer Engineering graduate from Ben-Gurion
 
 ## Contact
 
-[Email](mailto:jobow955@gmail.com): jobow955@gmail.com
+Email: jobow955@gmail.com(mailto:jobow955@gmail.com)

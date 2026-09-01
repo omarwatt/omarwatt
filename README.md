@@ -9,7 +9,22 @@
 
 ## About Me
 
-I'm Omar Wattad, an Electrical and Computer Engineering graduate from Ben-Gurion University. My background includes computer architecture, digital hardware design, and VLSI frontend and backend design. I am seeking an entry-level opportunity in hardware or VLSI engineering.
+**Electrical & Computer Engineer | Computer Architecture | RTL & VLSI Design**
+
+I am a B.Sc. graduate in Electrical and Computer Engineering from **Ben-Gurion University of the Negev**, with specializations in **VLSI, Nanotechnology, and Computer Architecture**.
+
+I have a strong foundation in computer design and architecture, with hands-on project experience across VLSI front-end and back-end design: developing RTL and microarchitectures, debugging simulations, designing transistor-level circuits, and implementing custom IC layouts with physical verification and parasitic analysis.
+
+**I am currently seeking an entry-level engineering role** in RTL/chip design, design verification, physical design, custom layout, or physical verification/CAD.
+
+Based in Israel · [Email me](mailto:jobow955@gmail.com)
+
+## Engineering interests
+
+- **Computer architecture and RTL:** processor datapaths, pipelining, forwarding and hazard handling, arithmetic units, interrupts, and memory-mapped peripherals.
+- **VLSI front-end design:** digital logic, microarchitecture, RTL implementation, simulation, and verification.
+- **VLSI back-end and custom layout:** floorplanning, transistor sizing, device matching, DRC/LVS, parasitic extraction, and timing/PPA analysis.
+- **Hardware automation:** Python tools for instrument control, data acquisition, and characterization.
 
 ## Contact
 

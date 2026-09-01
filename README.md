@@ -17,8 +17,6 @@ I have a strong foundation in computer design and architecture, with hands-on pr
 
 **I am currently seeking an entry-level engineering role** in RTL/chip design, design verification, physical design, custom layout, or physical verification/CAD.
 
-Based in Israel · [Email me](mailto:jobow955@gmail.com)
-
 ## Engineering interests
 
 - **Computer architecture and RTL:** processor datapaths, pipelining, forwarding and hazard handling, arithmetic units, interrupts, and memory-mapped peripherals.

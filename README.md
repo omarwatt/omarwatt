@@ -4,8 +4,8 @@
 - **[Five-Stage RISC-V Processor](https://github.com/omarwatt/Five-Stage-RISC-V-Processor)** — Implemented single-cycle and pipelined processors in VHDL, including forwarding and hazard-handling logic.
 - **[AES Transformations: RTL Design, Verification, and Clock Gating](https://github.com/omarwatt/SystemVerilog-Verification-of-an-AES-Transformation-Controller)** — Implemented a 128-bit AES SubBytes and MixColumns datapath in Verilog, verified it using SystemVerilog assertions and functional coverage, and evaluated clock gating through synthesis area and power comparisons.
 - **[Engineering Project - LCD Characterization System](https://github.com/omarwatt/LCD-Characterization-program)** — Developed a Python application integrating NI-DAQ, camera, and spectrometer interfaces for automated measurements and data logging.
-
-<!-- - **[CMOS Component Design and Layout](REPLACE_WITH_CMOS_REPOSITORY_URL)** — Designed transistor-level circuits and custom layouts, with DRC/LVS verification and delay analysis before and after parasitic extraction.
+- **[CMOS Component Design and Layout](https://github.com/omarwatt/CMOS-Component-Design-and-Layout)** — Designed transistor-level circuits and custom layouts, with DRC/LVS verification and delay analysis before and after parasitic extraction.
+<!-- 
 - **[Folded-Cascode Amplifier and LDO](REPLACE_WITH_ANALOG_REPOSITORY_URL)** — Designed and analyzed analog circuits, including transistor sizing, biasing, device matching, and custom layout.
 - **[Passive Double-Balanced Mixer](REPLACE_WITH_RFIC_REPOSITORY_URL)** — Designed and simulated an RF mixer for frequency conversion and analyzed its performance.-->
 
